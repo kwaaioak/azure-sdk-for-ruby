@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency("mime-types", "~> 1.0")
   s.add_runtime_dependency('json', '~> 1.8')
   s.add_runtime_dependency('uuid', '~> 2.0')
-  s.add_runtime_dependency('systemu', '~> 2.6')
+  s.add_runtime_dependency('systemu', '~> 2.5')
 
   s.add_development_dependency("rake", '~> 10.0')
   s.add_development_dependency("minitest", "~> 3.0")
